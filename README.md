@@ -113,4 +113,7 @@ Day 35 - [Rain Alert Project](https://github.com/CodingAzri/Python_100DaysofCode
 > 
 > Set up an email alert system to inform whether it will rain or not on the given day.
 
+Day 36 - [Stock Trading News Alert](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2036%20-%20Stock%20Trading%20News%20Alert)
+> Learned how to apply multiple APIs in a program to fetch data based on specific conditions.
+
 ## Advanced Projects
