@@ -116,4 +116,10 @@ Day 35 - [Rain Alert Project](https://github.com/CodingAzri/Python_100DaysofCode
 Day 36 - [Stock Trading News Alert](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2036%20-%20Stock%20Trading%20News%20Alert)
 > Learned how to apply multiple APIs in a program to fetch data based on specific conditions.
 
+Day 37 - [Habit Tracker (API-Pixela)](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2037%20-%20Habit%20Tracker%20(Pixela))
+> Explored advanced authentication, headers, and various types of HTTP requests (POST, PUT, DELETE).
+>
+> Developed a program that updates a habit tracker using code only, with the capability to be retrieved by inputting the link in a web browser.
+
+
 ## Advanced Projects
