@@ -48,3 +48,69 @@ Day 24 - [Updated Snake Game and Mail Merge Project]()
 >
 > Developed a personalized letter for each recipient in the Mail Merge Project.
 
+Day 25 - [Squirrel Data Analysis and US/Malaysia State Game]()
+> Utilized the pandas module to analyze squirrel data, determining the counts per color.
+> 
+> Developed a "Guess the State" game for both the US and Malaysia, utilizing the turtle and pandas modules for enhanced interactivity and data handling.
+
+Day 26 - [NATO Alphabet Project]()
+> Utilized the pandas module to read a CSV file containing NATO phonetic codes.
+>
+> Generated a user input system where inputted letters are converted to their corresponding NATO alphabet codes.
+
+Day 27 - [Miles to Km Converter GUI]()
+> Created a graphical user interface (GUI) using the tkinter module for a simple converter.
+>
+> Demonstrated the use of function arguments in conjunction with the GUI to perform conversions.
+
+Day 28 - [Pomodoro Project 🍅]()
+> Practiced creating graphical user interfaces (GUI) using the tkinter module.
+> 
+> Developed a standard Pomodoro timer, incorporating 25 minutes of work followed by 5 minutes of breaks.
+
+Day 29 - [Password Manager GUI App with tkinter]()
+> Utilized the tkinter module to create a graphical user interface (GUI) version of a password manager.
+>
+> Implemented dialogs to enhance the user interface (UI) for ease of use.
+>
+> Learned to use pyperclip to automatically copy generated passwords to the clipboard, improving user experience.
+
+Day 30 - [Password Manager (Improved with Search Options)]()
+> Enhanced the Day 29 project, adding a search function to retrieve both emails and passwords for specific websites.
+>
+> Replaced the data storage format from data.txt to data.json for improved data management.
+
+Day 31 - [Flash Cards App Capstone Project]()
+> Designed a flash card app specifically for learning Malay.
+>
+> Implemented the pandas module to read a CSV file. During gameplay, unknown words are saved in a new CSV for later testing.
+>
+> Added functionality to remove known words from the pool whenever the ✅ button is pressed. This ensures that the app focuses on testing only on unknown words.
+
+Day 32 - [Monday Motivation Email and Automated Birthday Wish Project]()
+> Set up a Python script to send a motivational quote every Monday to a recipient's email address.
+> 
+> Utilized the pandas module to read CSV data for automated birthday wishes.
+> 
+> Employed smtplib to send emails using Gmail as the host.
+>
+> Utilized the datetime module to determine the current day and month for birthday wishes.
+
+Day 33 - [ISS Overhead Notifier Project]()
+> Created a program that notifies if the International Space Station (ISS) is passing over your location.
+> 
+> Requires input of latitude and longitude for location comparison.
+>
+> If the ISS is within +- 5 degrees of your coordinates and it's nighttime, an email notification will be sent to look up and see the ISS yourself.
+
+Day 34 - [GUI Quiz Project]()
+> Modified the Day 17 Quiz Project to transform it into a graphical user interface (GUI) application.
+>
+> Incorporated an API to directly fetch questions from the specified website, https://opentdb.com/api_config.php
+
+Day 35 - [Rain Alert Project]()
+> Implemented an authenticated API to retrieve weather forecasts.
+> 
+> Set up an email alert system to inform whether it will rain or not on the given day.
+
+## Advanced Projects
