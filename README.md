@@ -121,5 +121,13 @@ Day 37 - [Habit Tracker (API-Pixela)](https://github.com/CodingAzri/Python_100Da
 >
 > Developed a program that updates a habit tracker using code only, with the capability to be retrieved by inputting the link in a web browser.
 
+Day 38 - [Workout Tracker using Google Sheets](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2038%20-%20Workout%20Tracker%20using%20Google%20Sheets)
+> Developed a Python program that utilizes the Nutritionix API to track exercise, duration, and calories.
+>
+> Integrated the Sheety API to automatically update this data into Google Sheets every time the program is executed.
+
+
+
+
 
 ## Advanced Projects
