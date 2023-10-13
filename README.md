@@ -126,9 +126,9 @@ Day 38 - [Workout Tracker using Google Sheets](https://github.com/CodingAzri/Pyt
 >
 > Integrated the Sheety API to automatically update this data into Google Sheets every time the program is executed.
 
-## Day 39, 40 are skipped due to too much signup to fetch API, and not in mood rn. (Maybe I'll updated them soon)
+*** Day 39, 40 are skipped due to too much signup to fetch API, and not in mood rn. (Maybe I'll updated them soon) ***
 
-Day 41 - [Introduction to HTML : Movie Ranking]()
+Day 41 - [Introduction to HTML : Movie Ranking](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2041%20-%20Introduction%20to%20HTML%20%3A%20Movie%20Ranking)
 > Learned the basics of HTML and created a basic website about my top 3 favourite movies.
 
 
