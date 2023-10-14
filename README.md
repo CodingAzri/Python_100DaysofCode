@@ -131,5 +131,7 @@ Day 38 - [Workout Tracker using Google Sheets](https://github.com/CodingAzri/Pyt
 Day 41 - [Introduction to HTML : Movie Ranking](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2041%20-%20Introduction%20to%20HTML%20%3A%20Movie%20Ranking)
 > Learned the basics of HTML and created a basic website about my top 3 favourite movies.
 
+Day 42 - [HTML: Birthday Invite Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2042%20-%20Birthday%20Invite%20Website)
+> Create a birthday invite website that incorporated what I've learned with list element, image element, HTML attribute and anchor element.
 
 ## Advanced Projects
