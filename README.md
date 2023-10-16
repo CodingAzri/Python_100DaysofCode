@@ -134,4 +134,6 @@ Day 41 - [Introduction to HTML : Movie Ranking](https://github.com/CodingAzri/Py
 Day 42 - [HTML: Birthday Invite Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2042%20-%20Birthday%20Invite%20Website)
 > Create a birthday invite website that incorporated what I've learned with list element, image element, HTML attribute and anchor element.
 
+Day 43 - [Introduction to CSS: Color Vocab Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2043%20-%20Introduction%20to%20CSS%20-%20Color%20Vocab%20Website)
+> Create a color vocab website in Spanish by implementing CSS selector and external CSS style.
 ## Advanced Projects
