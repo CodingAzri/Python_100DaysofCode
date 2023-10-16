@@ -136,4 +136,9 @@ Day 42 - [HTML: Birthday Invite Website](https://github.com/CodingAzri/Python_10
 
 Day 43 - [Introduction to CSS: Color Vocab Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2043%20-%20Introduction%20to%20CSS%20-%20Color%20Vocab%20Website)
 > Create a color vocab website in Spanish by implementing CSS selector and external CSS style.
+
+Day 44 - [CSS Meme Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2044%20-%20CSS%20Meme%20Website)
+> Create a meme website about programming, applying font element, image element, margins, padding and div.
+
+
 ## Advanced Projects
