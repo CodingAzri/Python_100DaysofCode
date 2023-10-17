@@ -140,5 +140,7 @@ Day 43 - [Introduction to CSS: Color Vocab Website](https://github.com/CodingAzr
 Day 44 - [CSS Meme Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2044%20-%20CSS%20Meme%20Website)
 > Create a meme website about programming, applying font element, image element, margins, padding and div.
 
+Day 45 - [Web Scraping Best 100 Movies](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2045%20-%20Web%20Scraping%20Best%20100%20Movies)
+> Create a txt file containing 100 Best Movies of All Time scraped from a website by using Beautiful Soup module
 
 ## Advanced Projects
