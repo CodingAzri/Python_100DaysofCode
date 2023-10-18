@@ -145,6 +145,7 @@ Day 45 - [Web Scraping Best 100 Movies](https://github.com/CodingAzri/Python_100
 
 Day 46 - [Create Spotify Playlist using Billboard 100 Website](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2046%20-%20Create%20Spotify%20Playlist%20using%20Billboard%20100%20Website)
 > Create a Python program to create a Spotify playlist based on the Billboard 100 website using the inputted date by user.
+> 
 > New module used : Beautiful Soup and Spotipy
 
 
