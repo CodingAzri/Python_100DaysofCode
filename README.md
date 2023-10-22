@@ -148,5 +148,10 @@ Day 46 - [Create Spotify Playlist using Billboard 100 Website](https://github.co
 > 
 > New module used : Beautiful Soup and Spotipy
 
+Day 47 - [Amazon Price Tracker using BeautifulSoup](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2047%20-%20Amazon%20Price%20Tracker%20using%20BeautifulSoup)
+> Create a program to send alert once the price goes down in Amazon using BeautifulSoup to check on the HTML.
+
+Day 48 - [Cookie Clicker Game](https://github.com/CodingAzri/Python_100DaysofCode/tree/main/Day%2048%20-%20Cookie%20Clicker%20Game)
+> Use selenium to automate clicking on the cookie automatically and to set new high score
 
 ## Advanced Projects
